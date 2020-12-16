@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\Programmering B\\Projects\\Javascript\\Øvelse nr 3\\E3 - 7"
+		},
+		{
+			"path": "..\\..\\..\\Programmering B\\Projects\\Javascript\\All Flag"
+		},
+		{
+			"path": "..\\..\\..\\Programmering B\\Projects\\Javascript\\Shape code"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Projekt Alpha"
+	}
+}
